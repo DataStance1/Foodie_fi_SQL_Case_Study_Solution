@@ -1,5 +1,5 @@
 # Foodie_fi_SQL_Case_Study_Solution
-This repository contains my solutions to Danny Ma's 8-week SQL challenge on Subscription base business analyses
+This repository contains my solution to Week 3 Danny Ma's 8-week SQL challenge on Subscription base business analyses
 
 #### Introduction
 Subscription-based businesses are super popular and Danny realised that there was a significant gap in the market. Danny created Foodie-Fi with a data-driven mindset and wanted to ensure all future investment decisions and new features were decided using data. This case study uses subscription-style digital data to answer critical business questions.
