@@ -24,7 +24,7 @@ Danny has shared the data design for Foodie-Fi and also short descriptions on ea
 - When customers churn - they will keep their access until the end of their current billing period but the start_date will be technically the day they decided to cancel their service.
 - 
 #### Solution
-  **I have carefully provided my solutions to the four parts of the case study in this repository( see the jupyter notebook file)** 
+  **I have carefully provided my solutions to the four parts of the case study in this repository( see the [jupyter notebook file](https://github.com/DataStance1/Foodie_fi_SQL_Case_Study_Solution/blob/main/Foodie_Fi_SQL_Case_Study_Solution_by_Caleb_Ugorji.ipynb))** 
 - See the summary dashboard here [Foodie_fi_summary_dashboard](https://public.tableau.com/app/profile/caleb.chijindu.ugorji/viz/Foodie_fisummarydashboard/Dashboard3?publish=yes) 
 
 *Thank you for your time. I would appreciate your feedback*
