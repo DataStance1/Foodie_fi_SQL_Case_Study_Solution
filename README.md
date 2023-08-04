@@ -20,5 +20,11 @@ Danny has shared the data design for Foodie-Fi and also short descriptions on ea
 #### Table 2: Subscriptions
 - Customer subscriptions show the exact date when their specific plan_id starts.
 - If customers downgrade from a pro plan or cancel their subscription - the higher plan will remain in place until the period is over - the start_date in the subscriptions table will reflect the date that the actual plan changes.
-- When customers upgrade their account from a basic plan to a pro or annual pro plan - the higher plan will take effect straightaway.
+- When customers upgrade their account from a basic plan to a pro or annual pro plan - the higher plan will take effect straight away.
 - When customers churn - they will keep their access until the end of their current billing period but the start_date will be technically the day they decided to cancel their service.
+- 
+#### Solution
+  **I have carefully provided my solutions to the four parts of the case study in this repository( see the jupyter notebook file)** 
+- See the summary dashboard here [Foodie_fi_summary_dashboard](https://public.tableau.com/app/profile/caleb.chijindu.ugorji/viz/Foodie_fisummarydashboard/Dashboard3?publish=yes) 
+
+*Thank you for your time. I would appreciate your feedback*
